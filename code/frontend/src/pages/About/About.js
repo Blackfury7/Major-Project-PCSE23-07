@@ -12,7 +12,7 @@ export default function About() {
                     We created this as a personal project, and deployed this project
                     so people can use it and mainly the developers can who are learning AI can learn 
                     from this project and make their own AI or they can also improve this project.
-                    This is an open source project, The code is available on the GitHub -  <a href="https://github.com/Blackfury7/Major-Project-PCSE23-07">https://github.com/Blackfury7/Major-Project-PCSE23-07 </a>
+                    This is an open source project, The code is available on the GitHub -  <a href="https://github.com/PCSE23-07/Final-Project-PCSE23-07">https://github.com/PCSE23-07/Final-Project-PCSE23-07 </a>
                     
                      This AI first predicts keypoints or coordinates of different parts of the body(basically where
                     they are present in an image) and then it use another classification model to classify the poses if 

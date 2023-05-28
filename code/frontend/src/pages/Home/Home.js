@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div className='home-container'>
             <div className='home-header'>
-                <h1 className='home-heading'>Yoga AI</h1>
+                <h1 className='home-heading'>Yoga AI: PCSE23 - 07</h1>
                 <Link to='/about'>
                     <button 
                         className="btn btn-secondary" 
