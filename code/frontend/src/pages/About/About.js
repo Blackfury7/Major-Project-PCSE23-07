@@ -29,9 +29,10 @@ export default function About() {
                     Our collective enthusiasm drives us to explore innovative solutions and deliver high-quality results. 
                     </p>
                     <h4>Contact</h4>
-                    {/* <a href="https://www.instagram.com/codedharsh75/"><p className="about-content">Instagram</p></a> */}
-                    {/* <a href="https://www.youtube.com/channel/UCiD7kslR7lKSaPGSQ-heOWg"><p  className="about-content">Youtube</p></a> */}
-                    <a href="https://github.com/Blackfury7"><p  className="about-content">GitHub</p></a>
+                    <a href="https://github.com/PCSE23-07/Final-Project-PCSE23-07"><p  className="about-content">GitHub</p></a>
+                    <p  className="about-content">Ashutosh Verma (1900290100041)</p>
+                    <p  className="about-content">Divyanshu Sharma (1900290100058)</p>
+                    <p  className="about-content">Himanshu Agarwal (1900290100071)</p>
                 </div>
             </div>
         </div>
